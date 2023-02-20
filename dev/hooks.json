@@ -1,0 +1,10 @@
+{
+    "comments": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_global"
+    },
+    "posts": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_topics"
+    }
+}
